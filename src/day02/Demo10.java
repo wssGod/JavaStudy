@@ -3,7 +3,7 @@ package day02;
 /**
  * Demo10
  *
- * @author wss
+ * @author wss1
  * @date 2020/6/24 4:52 下午
  *
  * 对于byte/short/char三种类型来说，如果右侧赋值的数值没有超过范围，那么javac编译器会自动隐含地为我们补上一个(byte)(short)(char)
