@@ -13,7 +13,6 @@ public class Demo01Array {
     public static void main(String[] args) {
         // 首先创建一个长度为3的数组，里面用来存放Person类型对象
         Person[] array = new Person[3];
-
         Person one = new Person("11", 11);
         Person two = new Person("22", 22);
         Person three = new Person("33", 33);
